@@ -22,7 +22,8 @@ install.packages("scales")
 
 ## More info
 
-A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2019/02/24/allusions-to-parents-in-autobiographies-(or-reading-118-books-in-a-few-seconds))
+A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/2019/02/24/allusions-to-parents-in-autobiographies-or-reading-118-books-in-a-few-seconds/)
+
 
 ## Authors
 
